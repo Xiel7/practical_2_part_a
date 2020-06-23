@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practical_2_part_a</string>
+    <string name="toast_text">Toast</string>
+    <string name="count_text">Count</string>
+    <string name="zero">0</string>
+    <string name="toast_message">Hello Eric Ng Boon Lee 19WMD05539</string>
+</resources>
